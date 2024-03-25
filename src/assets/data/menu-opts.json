@@ -1,0 +1,27 @@
+[
+    {
+        "icon":"alert-circle-outline",
+        "name":"Alert",
+        "redirectTo":"/alert"
+      },
+      {
+        "icon":"radio-button-off-outline",
+        "name":"Botones",
+        "redirectTo":"/button"
+      },
+      {
+        "icon":"checkmark-circle-outline",
+        "name":"Checks",
+        "redirectTo":"/check"
+      },
+      {
+        "icon":"car-outline",
+        "name":"Fab",
+        "redirectTo":"/fab"
+      },
+      {
+        "icon":"list-outline",
+        "name":"list - Reorder",
+        "redirectTo":"/list-reorder"
+      }
+]
